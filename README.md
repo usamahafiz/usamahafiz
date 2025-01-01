@@ -6,7 +6,7 @@ Hi, I'm **Hafiz Muhammad Usama**, a Computer Science student at the University o
 
 I'm learning various web technologies, such as HTML, CSS, JavaScript, ReactJS, and React Native. I enjoy tackling coding challenges and participating in hackathons to sharpen my skills. 
 
-Connect with me on [GitHub](https://github.com/usamahafiz) and LinkedIn(https://www.linkedin.com/in/hafiz-usama-38a9922b0/) to see my latest projects!
+Connect with me on [GitHub](https://github.com/usamahafiz) and [LinkedIn](https://www.linkedin.com/in/hafiz-usama-38a9922b0/) to see my latest projects!
 
 
 
