@@ -4,9 +4,9 @@
 
 Hi, I'm **Hafiz Muhammad Usama**, a Computer Science student at the University of Agriculture, Faisalabad (UAF). I'm currently pursuing a Bachelor's degree in Computer Science and am passionate about web development and problem-solving. 
 
-I'm learning various web technologies like HTML, CSS, JavaScript, and ReactJS. I enjoy tackling coding challenges and participating in hackathons to sharpen my skills. 
+I'm learning various web technologies, such as HTML, CSS, JavaScript, ReactJS, and React Native. I enjoy tackling coding challenges and participating in hackathons to sharpen my skills. 
 
-Connect with me on [GitHub](https://github.com/usamahafiz) to see my latest projects!
+Connect with me on [GitHub](https://github.com/usamahafiz) and LinkedIn(https://www.linkedin.com/in/hafiz-usama-38a9922b0/) to see my latest projects!
 
 
 
@@ -14,9 +14,9 @@ Connect with me on [GitHub](https://github.com/usamahafiz) to see my latest proj
 
 
 - 📘  𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web Development
-- 🖥️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀: Frontend Development
+- 🖥️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀: Mern Stack Development
 - 🧠 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Solving complex Data Structures and Algorithms
-- 🥅 2024 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
+- 🥅 2025 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
 - 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Participating in coding competitions & hackathons
 - 🌍 𝗣𝗵𝗗 𝗮𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻𝘀: Advancing in tech in the US
 - 📞 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out & let's connect and start a conversation.
@@ -39,7 +39,7 @@ Connect with me on [GitHub](https://github.com/usamahafiz) to see my latest proj
 ### Languages
 <a href="https://github.com/usamahafiz">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=js,cpp,python,&perline=3" /> 
+       <img src="https://skillicons.dev/icons?i=js,cpp,python,java,&perline=3" /> 
 </div>
 </a>
 
