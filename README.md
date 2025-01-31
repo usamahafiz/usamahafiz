@@ -14,15 +14,11 @@ I'm learning various web technologies, such as HTML, CSS, JavaScript, ReactJS, a
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
   <a href="https://www.linkedin.com/in/hafiz-usama-38a9922b0/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://facebook.com/muhammad.usama" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/people/Muhammad-Usama/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 <a href="https://github.com/your-github-username" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-
-Connect with me on [GitHub](https://github.com/usamahafiz) and [LinkedIn](https://www.linkedin.com/in/hafiz-usama-38a9922b0/) to see my latest projects!
-
 
 
 # About
