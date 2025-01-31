@@ -2,11 +2,9 @@
 <h3 align="center">A Passionate Mern Stack Developer </h3>
 
 
-I'm a Computer Science student at the University of Agriculture, Faisalabad (UAF). I'm currently pursuing a Bachelor's degree in Computer Science and am passionate about web and mobile app development and problem-solving. 
-
+I am a Computer Science student and a MERN stack developer with a strong passion for problem-solving. I am always eager to explore and learn about innovative technologies to expand my skillset.
 
 - 📘 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web and Mobile App Development
-- 🖥️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀: Mern Stack Development
 - 🧠 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Solving complex Data Structures and Algorithms
 - 🥅 2025 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
 - 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Participating in coding competitions & hackathons
