@@ -4,11 +4,6 @@
 
 I'm a Computer Science student at the University of Agriculture, Faisalabad (UAF). I'm currently pursuing a Bachelor's degree in Computer Science and am passionate about web and mobile app development and problem-solving. 
 
-I'm learning various web technologies, such as HTML, CSS, JavaScript, ReactJS, and React Native. I enjoy tackling coding challenges and participating in hackathons to sharpen my skills. 
-
----
-
-
 # About
 
 
@@ -44,6 +39,8 @@ I'm learning various web technologies, such as HTML, CSS, JavaScript, ReactJS, a
   <a href="https://www.linkedin.com/in/hafiz-usama-38a9922b0/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/people/Muhammad-Usama/pfbid0Bdm5cP4EBnLG6LCKXWNS2mWkqpgjuVwK11vcbdQw6bQNmZmvJN7qnyB7pz8mDv9Dl/?mibextid=ZbWKwL" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
+
+---
 
 ## GitHub Stats📈:
 <p align="center">
