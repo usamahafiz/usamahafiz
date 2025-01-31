@@ -29,10 +29,9 @@ I'm learning various web technologies, such as HTML, CSS, JavaScript, ReactJS, a
 ### Frontend  
 <a href="https://github.com/usamahafiz">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react&perline=3" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,reactnative&perline=3" /> 
 </div>
 </a>
-
 
     
 ### Languages
@@ -59,6 +58,7 @@ I'm learning various web technologies, such as HTML, CSS, JavaScript, ReactJS, a
 </a>
 </td>
 </tr></table>
+
 ---
 
 <h3 align="center">🌐 Connect with me:</h3>
