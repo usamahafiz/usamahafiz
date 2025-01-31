@@ -22,6 +22,36 @@ I'm learning various web technologies, such as HTML, CSS, JavaScript, ReactJS, a
 
 
 
+### 🚀 Frontend  
+<a href="https://github.com/usamahafiz">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,reactnative&perline=3" /> 
+</div>
+</a>
+
+### 🔠 Languages
+<a href="https://github.com/usamahafiz">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=js,cpp,python,java&perline=3" /> 
+</div>
+</a>
+
+### 🛠 Backend
+<a href="https://github.com/usamahafiz">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=mongodb,nodejs,firebase&perline=3" /> 
+</div>
+</a>
+
+### ⚡ Others
+<a href="https://github.com/usamahafiz">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,netlify,vite,discord,stackoverflow&perline=4" /> 
+</div>
+</a>
+
+
+
 # Basic Skills
 
 <table><tr><td valign="top" width="25%">
