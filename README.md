@@ -4,14 +4,13 @@
 
 I'm a Computer Science student at the University of Agriculture, Faisalabad (UAF). I'm currently pursuing a Bachelor's degree in Computer Science and am passionate about web and mobile app development and problem-solving. 
 
-# About
-
 
 - 📘 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web and Mobile App Development
 - 🖥️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀: Mern Stack Development
 - 🧠 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Solving complex Data Structures and Algorithms
 - 🥅 2025 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
 - 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Participating in coding competitions & hackathons
+- - 👨‍💻 All of my projects are available at [My Portfolio](https://hafizusamaportfolio.netlify.app/)
 - 📫 Reach me at **hafizmuhammadusama664@gmail.com**  
 - 📞 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out & let's connect and start a conversation.
 
@@ -20,7 +19,7 @@ I'm a Computer Science student at the University of Agriculture, Faisalabad (UAF
 # Basic Skills
 
 
-<h3 align="center">🛠️ Frontend:</h3> <p align="center"> <a href="https://github.com/usamahafiz" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="https://github.com/usamahafiz" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> <a href="https://getbootstrap.com" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a> <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a> <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /></a> <a href="https://reactnative.dev/" target="_blank"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" /></a> <a href="https://www.javascript.com/" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> </p>
+<h3 align="center">🛠️ Frontend:</h3> <p align="center"> <a href="https://github.com/usamahafiz" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="https://github.com/usamahafiz" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> <a href="https://getbootstrap.com" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a> <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a> <a href="https://www.javascript.com/" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /></a> <a href="https://reactnative.dev/" target="_blank"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" /></a>  </p>
 
 <h3 align="center">🛠️ Backend:</h3> <p align="center"> <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a> <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a> <a href="https://firebase.google.com/" target="_blank"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /></a> </p>
 
@@ -40,7 +39,6 @@ I'm a Computer Science student at the University of Agriculture, Faisalabad (UAF
   <a href="https://www.facebook.com/people/Muhammad-Usama/pfbid0Bdm5cP4EBnLG6LCKXWNS2mWkqpgjuVwK11vcbdQw6bQNmZmvJN7qnyB7pz8mDv9Dl/?mibextid=ZbWKwL" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
----
 
 ## GitHub Stats📈:
 <p align="center">
