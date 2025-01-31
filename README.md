@@ -8,28 +8,16 @@ I'm learning various web technologies, such as HTML, CSS, JavaScript, ReactJS, a
 
 ---
 
-<h3 align="center">🌐 Connect with me:</h3>
-<p align="center">
-       <a href="https://github.com/usamahafiz" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-  <a href="https://www.linkedin.com/in/hafiz-usama-38a9922b0/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/people/Muhammad-Usama/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
-<a href="https://github.com/your-github-username" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 
 # About
 
 
-- 📘  𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web Development
+- 📘 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web and Mobile App Development
 - 🖥️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀: Mern Stack Development
 - 🧠 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Solving complex Data Structures and Algorithms
 - 🥅 2025 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
 - 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Participating in coding competitions & hackathons
-- 🌍 𝗣𝗵𝗗 𝗮𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻𝘀: Advancing in tech in the US
+- 📫 Reach me at **hafizmuhammadusama664@gmail.com**  
 - 📞 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out & let's connect and start a conversation.
 
 
@@ -55,6 +43,7 @@ I'm learning various web technologies, such as HTML, CSS, JavaScript, ReactJS, a
 </a>
 
 </td><td valign="top" width="25%">
+       
 ### Backend
 <a href="https://github.com/usamahafiz">
 <div align="center">
@@ -70,6 +59,16 @@ I'm learning various web technologies, such as HTML, CSS, JavaScript, ReactJS, a
 </a>
 </td>
 </tr></table>
+---
+
+<h3 align="center">🌐 Connect with me:</h3>
+<p align="center">
+       <a href="https://github.com/usamahafiz" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+  <a href="https://www.linkedin.com/in/hafiz-usama-38a9922b0/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/people/Muhammad-Usama/pfbid0Bdm5cP4EBnLG6LCKXWNS2mWkqpgjuVwK11vcbdQw6bQNmZmvJN7qnyB7pz8mDv9Dl/?mibextid=ZbWKwL" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
 
 ## GitHub Stats📈:
 <p align="center">
