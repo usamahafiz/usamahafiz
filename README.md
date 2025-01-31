@@ -10,7 +10,7 @@ I'm a Computer Science student at the University of Agriculture, Faisalabad (UAF
 - 🧠 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Solving complex Data Structures and Algorithms
 - 🥅 2025 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
 - 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Participating in coding competitions & hackathons
-- - 👨‍💻 All of my projects are available at [My Portfolio](https://hafizusamaportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://hafizusamaportfolio.netlify.app/)
 - 📫 Reach me at **hafizmuhammadusama664@gmail.com**  
 - 📞 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out & let's connect and start a conversation.
 
