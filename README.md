@@ -20,36 +20,7 @@ I'm learning various web technologies, such as HTML, CSS, JavaScript, ReactJS, a
 - 📫 Reach me at **hafizmuhammadusama664@gmail.com**  
 - 📞 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out & let's connect and start a conversation.
 
-
-
-### 🚀 Frontend  
-<a href="https://github.com/usamahafiz">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,reactnative&perline=3" /> 
-</div>
-</a>
-
-### 🔠 Languages
-<a href="https://github.com/usamahafiz">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=js,cpp,python,java&perline=3" /> 
-</div>
-</a>
-
-### 🛠 Backend
-<a href="https://github.com/usamahafiz">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=mongodb,nodejs,firebase&perline=3" /> 
-</div>
-</a>
-
-### ⚡ Others
-<a href="https://github.com/usamahafiz">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,netlify,vite,discord,stackoverflow&perline=4" /> 
-</div>
-</a>
-
+<h3 align="center">🛠️ Frontend:</h3> <p align="center"> <a href="https://github.com/usamahafiz" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="https://github.com/usamahafiz" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> <a href="https://getbootstrap.com" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a> <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a> <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /></a> <a href="https://reactnative.dev/" target="_blank"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" /></a> <a href="https://www.javascript.com/" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> </p>
 
 
 # Basic Skills
