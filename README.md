@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer </h3>
 
 
-I am a Computer Science student and a MERN stack developer with a strong passion for problem-solving. I am always eager to explore and learn about innovative technologies to expand my skillset.
+I am a Computer Science student and a Full Stack Developer with a strong passion for problem-solving. I am always eager to explore and learn about innovative technologies to expand my skillset.
 
 -  𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web and Mobile App Development
 -  𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Full-stack development and tackling complex AI & ML challenges
