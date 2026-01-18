@@ -23,8 +23,7 @@ I am a Computer Science student and a MERN stack developer with a strong passion
 <p align="center">
   <a href="https://nodejs.org/" target="_blank">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
+  </a><a href="https://expressjs.com/" target="_blank">
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   </a>
 </p>
