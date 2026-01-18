@@ -4,13 +4,13 @@
 
 I am a Computer Science student and a MERN stack developer with a strong passion for problem-solving. I am always eager to explore and learn about innovative technologies to expand my skillset.
 
-- 📘 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web and Mobile App Development
-- 🧠 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Solving complex Data Structures and Algorithms
-- 🥅 2025 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
-- 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Participating in coding competitions & hackathons
-- 👨‍💻 All of my projects are available at [My Portfolio](https://hafizusamaportfolio.netlify.app/)
-- 📫 Reach me at **hafizmuhammadusama664@gmail.com**  
-- 📞 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out & let's connect and start a conversation.
+-  𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web and Mobile App Development & Machine Learning
+-  𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Solving complex Data Structures and Algorithms
+-  2026 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
+-  𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Participating in coding competitions & hackathons
+-  All of my projects are available at [My Portfolio](https://hafizusamaportfolio.netlify.app/)
+-  Reach me at **hafizmuhammadusama664@gmail.com**  
+-  𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out & let's connect and start a conversation.
 
 ---
 
@@ -38,7 +38,7 @@ I am a Computer Science student and a MERN stack developer with a strong passion
 </p>
 
 
-## GitHub Stats📈:
+## GitHub Stats:
 <p align="center">
     <a href="https://github.com/usamahafiz">
         <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=usamahafiz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
