@@ -52,12 +52,15 @@ I am a Computer Science student and a MERN stack developer with a strong passion
 
 ---
 
-<h3 align="center">🌐 Connect with me:</h3>
+<h3 align="center"> Connect with me:</h3>
 <p align="center">
        <a href="https://github.com/usamahafiz" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
   <a href="https://www.linkedin.com/in/hafiz-usama-38a9922b0/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/29587432/hafiz-usama" target="_blank">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
   <a href="https://www.facebook.com/people/Muhammad-Usama/pfbid0Bdm5cP4EBnLG6LCKXWNS2mWkqpgjuVwK11vcbdQw6bQNmZmvJN7qnyB7pz8mDv9Dl/?mibextid=ZbWKwL" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
