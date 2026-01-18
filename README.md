@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hafiz Muhammad Usama</h1>
-<h3 align="center">A Passionate Mern Stack Developer </h3>
+<h3 align="center">A Passionate Full Stack Developer </h3>
 
 
 I am a Computer Science student and a MERN stack developer with a strong passion for problem-solving. I am always eager to explore and learn about innovative technologies to expand my skillset.
